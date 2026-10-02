@@ -1,0 +1,23 @@
+# Files Git should never upload
+
+# Helper scripts for publishing (not part of the portfolio)
+setup-repo.cmd
+publish.cmd
+
+# Anything private or secret
+private/
+*.key
+*.pem
+*.pfx
+*.env
+*password*
+*secret*
+
+# Large lab files that do not belong in a repo
+*.iso
+*.vhdx
+*.avhdx
+
+# Windows clutter
+Thumbs.db
+desktop.ini
