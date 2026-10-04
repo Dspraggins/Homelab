@@ -3,6 +3,7 @@
 # Helper scripts for publishing (not part of the portfolio)
 setup-repo.cmd
 publish.cmd
+publish-message.txt
 
 # Anything private or secret
 private/
