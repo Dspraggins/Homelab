@@ -9,7 +9,7 @@ A home lab that builds a small company's IT environment from scratch: virtualisa
 | # | Chapter | Status |
 | --- | --- | --- |
 | 0 | [Lab foundation](00-foundation/) | Complete |
-| 1 | Networking | Planned |
+| 1 | [Networking](01-networking/notes.md) | In progress |
 | 2 | Active Directory | Planned |
 | 3 | Core services: DNS, DHCP, Group Policy, file shares | Planned |
 | 4 | PowerShell automation | Planned |
