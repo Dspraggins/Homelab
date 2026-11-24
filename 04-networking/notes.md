@@ -1,6 +1,6 @@
-# Chapter 1: Networking - lab notes
+# Chapter 4: Networking - lab notes
 
-These are my working notes for the networking chapter of my homelab. Each lesson has a goal, what I did, what I recorded, and what I learned from it.
+These are my working notes for the networking chapter of my homelab. Lessons 1 and 2 were done early in the course, on Hyper-V's Default Switch, before the lab had its own network (see [Chapter 1, Lesson 1](../01-windows-server/notes.md)). Each lesson has a goal, what I did, what I recorded, and what I learned from it.
 
 ## The environment
 
