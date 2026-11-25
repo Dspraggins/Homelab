@@ -11,7 +11,7 @@ A home lab that builds a small company's IT environment from scratch: virtualisa
 | # | Chapter | Status |
 | --- | --- | --- |
 | 0 | [Lab foundation](00-foundation/) | Complete |
-| 1 | [Windows Server and the lab build](01-windows-server/notes.md) | In progress (lesson 1 of 6 done) |
+| 1 | [Windows Server and the lab build](01-windows-server/notes.md) | In progress (lessons 1-2 of 6 done) |
 | 2 | Active Directory | Planned |
 | 3 | Core services: DNS, DHCP, file and print, second domain controller | Planned |
 | 4 | [Networking](04-networking/notes.md) | Lessons 1-2 done early; rest planned |
@@ -40,4 +40,5 @@ A home lab that builds a small company's IT environment from scratch: virtualisa
 ## Incident reports
 
 - [INC-001: Chapter 0 troubleshooting log](00-foundation/troubleshooting.md)
-- [INC-002: lab network fault (Chapter 1)](01-windows-server/notes.md#incident-inc-002)
+- [INC-002: lab network fault (Chapter 1)](01-windows-server/notes.md#incident-inc-002-lab-vms-lost-internet-access)
+- [INC-003: server DNS fault (Chapter 1)](01-windows-server/notes.md#incident-inc-003-new-server-could-not-reach-the-internet-or-windows-update)
